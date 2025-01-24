@@ -21,7 +21,7 @@ db {
   driver = "com.mysql.cj.jdbc.Driver"
   url = "jdbc:mysql://localhost:3306/movie"
   user = "root"
-  password = "camomilla10.@"
+  password = "contraseña"
 }
 ```
 
