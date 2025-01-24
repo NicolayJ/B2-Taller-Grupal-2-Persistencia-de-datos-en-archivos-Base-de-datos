@@ -150,6 +150,12 @@ object Main extends IOApp.Simple {
 
 ---
 
+![image](https://github.com/user-attachments/assets/6790aea2-82d4-4c1b-b9ed-50ef03f75757)
+
+
+![image](https://github.com/user-attachments/assets/8f74064d-b5df-44aa-991a-1fc662b45dad)
+
+
 ### **3. Resumen del flujo del programa**
 1. Lee el archivo de configuración (`application.conf`) para obtener las credenciales.
 2. Procesa el archivo CSV para convertir los datos en objetos `Estudiante`.
